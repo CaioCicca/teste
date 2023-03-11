@@ -1,0 +1,133 @@
+body {
+    margin: 0px;
+    background-image: url(https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/05/valorant_logo_v.jpg);
+    background-size: cover;
+    background-position: fixed;
+    background-repeat: no-repeat;
+}
+
+#article_explication {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #dc3d4b;
+    border-radius: 10px;
+    border-top: 10px solid black;
+    -webkit-box-shadow: 20px 20px 34px -10px rgba(0, 0, 0, 0.84);
+    -moz-box-shadow: 20px 20px 34px -10px rgba(0, 0, 0, 0.84);
+    box-shadow: 20px 20px 34px -10px rgba(0, 0, 0, 0.84);
+    width: 95%;
+    margin-left: 35px;
+}
+#h1_article {
+    color: white;
+    font-family: sans-serif;
+    margin-top: 5px;
+    font-size: 35px;
+}
+#sect1_positions{
+    background-color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 35px;
+    padding: 10px;
+    margin-top: 20px;
+    border-top: 10px solid #dc3d4b;
+    border-radius: 10px;
+    width: 95%;
+    text-align: justify;
+    justify-content: center;
+}
+#h1_positions{
+    color: #dc3d4b;
+    font-family: sans-serif;
+    margin-top: 5px;
+    font-size: 35px;
+}
+#div_positions{
+    display: flex;
+    justify-content: center;
+    
+}
+.sect2_positions{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 10px;
+    margin-top: 20px;
+    border-top: 10px solid #dc3d4b;
+    border-radius: 10px;
+    width: 95%;
+    text-align: justify;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+#agents {
+    width: 94%;
+    padding: 20px;
+    margin: 10px;
+    border-left: 10px solid #dc3d4b;
+    border-radius: 10px;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+#h1_agents {
+    color: #fa4454;
+    font-family: sans-serif;
+    margin-top: 5px;
+    font-size: 35px;
+}
+.name_agents{
+    font-size: 35px;
+    color: white;
+}
+#div_agents{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.sect_agents{
+    margin-right: 20px;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+    margin-left: 10px;
+    border-top: 10px solid #dc3d4b;
+    border-radius: 10px;
+    border-bottom: 10px solid #dc3d4b;
+    text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    width: 33.33%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sect_agents2{
+    font-size: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    padding-right: 15px;
+    background-color: white;
+    padding-left: 10px;
+    border-top: 10px solid #dc3d4b;
+    border-bottom: 10px solid #dc3d4b;
+    border-radius: 10px;
+    text-align: justify;
+    padding-bottom: 10px;
+    width: 33.33%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.agents_names{
+    color: #fa4454;
+}
+.agents_names2{
+    color:#dc3d4b;
+}
+.foto_agents{
+    text-align: center;
+}
